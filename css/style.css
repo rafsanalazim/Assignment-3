@@ -1,0 +1,20 @@
+.header{
+	min-height: 10px;
+	background-color: rgba(0, 171, 209);
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.blog{
+	width: 60%;
+	min-height: 10px;
+	float: left;
+	background-color: rgba(0, 171, 209);
+}
+.video{
+	width: 40%;
+	min-height: 10px;
+	float: right;
+	background-color: white;
+}
